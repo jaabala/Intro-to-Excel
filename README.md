@@ -1,4 +1,4 @@
-# Intro-to-Excel\
+# Intro-to-Excel
 # Background Information and Problem Statement
 
 As a Data professional working for a startup company, you need to provide product and
